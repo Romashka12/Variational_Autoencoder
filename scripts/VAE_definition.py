@@ -124,6 +124,6 @@ def bigger_encoder(colors,latent_dim,hidden_layer_size,image_size):
 
         nn.Conv2d(128, 256, 6),
         nn.Flatten(),
-        nn.Linear(12544,hidden_layer_size),
+        nn.Linear(82944,hidden_layer_size),
         nn.BatchNorm1d(hidden_layer_size),
         nn.Sigmoid()))
