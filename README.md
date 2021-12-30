@@ -7,4 +7,4 @@ The training results are visualised in TensorBoard. The best model is chosen bas
 
 The test images encoded and reconstructed are below:
 
-![reconstructed_images](/results/test_images_examples.png)
+![reconstructed_images](/results/Test_images.PNG)
